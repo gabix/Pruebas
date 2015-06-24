@@ -1,0 +1,53 @@
+<html>
+<head>
+	<title>testoEimagen</title>
+	<style type="text/css">
+		img {
+			width: 100px;
+			height: 200px;
+		}
+		img.floatLeft {
+		    float: left;
+		    margin: 0.5em 0.5em 0.1em 0em;
+		}
+		img.floatRight {
+		    float: right;
+		    margin: 0.5em 0em 0.1em 0.5em;
+		}
+		.cuadrog {
+			padding:2em;
+			margin:1em 5% 2em 5%;
+			border:0.2em solid #ff0000;
+		}
+		.contenedor {
+			padding: 2em;
+			margin: 2em;
+			border: 1em solid #ff0000;
+		}
+		.subra {
+			font-family:"Trebuchet MS", Georgia, Verdana, serif;
+			font-size: 1.5em;
+			font-weight: bolder;
+			border-bottom: 0.1em solid #ff0000;
+		}
+	</style>
+</head>
+<body>
+<div class="contenedor">
+	<dl class="cuadrog">
+		<dt class="subra">1 cosa</dt>
+		<dd>
+			<img src="sunset.gif" class="floatLeft">
+			<p>The images are contained within the paragraph tag. The image has floated to the left, and also to the right because we have used both types of image floating in this example. Notice how the text wraps around the images quite nicely. The images are contained within the paragraph tag. The image has floated to the left, and also to the right because we have used both types of image floating in this example. Notice how the text wraps around the images quite nicely.</p>
+			<p style="clear: both;" />
+		</dd>
+		<dt class="subra">2 cosas</dt>
+		<dd>
+			<img src="sunset.gif" class="floatRight">
+			<p>This second paragraph has an image that is floated to the right. It should be noted that a margin should be added to images so that the text does not get too close to the image. There should always be a few pixels between words and borders, images, and other content. This second paragraph has an image that is floated to the right. It should be noted that a margin should be added to images so that the text does not get too close to the image. There should always be a few pixels between words and borders, images, and other content.</p>
+			<p style="clear: both;" />
+		</dd>
+	</dl>
+</div>
+</body>
+</html>

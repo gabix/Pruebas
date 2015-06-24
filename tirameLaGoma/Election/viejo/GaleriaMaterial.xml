@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 rel. 2 sp1 (http://www.altova.com) by Leonardo (PT) -->
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="480" textColor="" frameColor="0xffffff" frameWidth="0" stagePadding="40" thumbnailColumns="3" thumbnailRows="2" navPosition="left" title="MATERIAL" enableRightClickOpen="true" backgroundImagePath="" imagePath="GaleriaMaterial/images/" thumbPath="GaleriaMaterial/thumbs/">
+	<image>
+		<filename>Bases.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>BASES PARA RELOJES</modelo>
+	</image>
+	<image>
+		<filename>Bolsa.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>BOLSA</modelo>
+	</image>
+	<image>
+		<filename>Estuche1.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>ESTUCHE</modelo>
+	</image>
+	<image>
+		<filename>Estuche2.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>ESTUCHE</modelo>
+	</image>
+	<image>
+		<filename>Estuche3.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>ESTUCHE</modelo>
+	</image>
+	<image>
+		<filename>Estuche4.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>ESTUCHE</modelo>
+	</image>
+	<image>
+		<filename>Exhibidor1.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>EXHIBIDOR</modelo>
+	</image>
+	<image>
+		<filename>Exhibidor2.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>EXHIBIDOR</modelo>
+	</image>
+	<image>
+		<filename>ExhibidorPie.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>EXHIBIDOR DE PIE</modelo>
+	</image>
+	<image>
+		<filename>Garantia2.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>GARANTÍA</modelo>
+	</image>
+	<image>
+		<filename>Garantia.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>GARANTÍA</modelo>
+	</image>
+	<image>
+		<filename>RelojBolsillo.png</filename>
+		<descripcion><![CDATA[]]></descripcion>
+		<modelo>RELOJ DE BOLSILLO</modelo>
+	</image>
+</simpleviewerGallery>

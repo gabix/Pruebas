@@ -1,0 +1,47 @@
+/* CSS bordes.css Document */
+
+
+/* fondos verdes --> */
+.td_fondoIzq {
+	background-image: url(fondoVerdeDegradadooo.jpg); 
+	background-repeat: repeat-x;
+}
+.td_fondoCentro {
+	background-image: url(fondoVerdeDegradadooo.jpg); 
+	background-repeat: repeat-x;
+}
+.td_fondoDer {
+	background-image: url(fondoVerdeDegradadooo.jpg); 
+	background-repeat: repeat-x;
+}
+/* <-- fondos verdes */
+
+/* bordes sombreados --> */
+.td_bordeArribaCentro {
+	background-image: url(Bordes/BordeSom_ARRI_paRep.png); 
+	background-repeat:repeat-x;
+	vertical-align: bottom;
+}
+
+.td_bordeMedioIzq {
+	background-image: url(Bordes/BordeSom_IZQ_paRep.png); 
+	background-repeat:repeat-y;
+}
+.td_bordeMedioDer {
+	background-image: url(Bordes/BordeSom_DER_paRep.png); 
+	background-repeat:repeat-y;
+}
+
+.td_bordeAbajoDer {
+	
+}
+.td_bordeAbajoCentro {
+	background-image: url(Bordes/BordeSom_ABAJ_paRep.png); 
+	background-repeat:repeat-x
+}
+.td_bordeAbajoIzq {
+	
+}
+
+/* <-- bordes sombreados */
+

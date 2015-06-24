@@ -1,0 +1,43 @@
+/* CSS MIO.css Document */
+
+.p_tituloPri {
+	border: solid 1px #b7d68e; /* verdesillo más oscuro */
+	/* #B88ED6; purpureo grisaseo mas oscuro*/
+	font-size : large; 
+	font-style : italic; 
+	font-weight : bold;
+	padding: 1px;
+	margin: 1px;
+}
+
+.td_centYcolfondo {
+	text-align: center;
+	background-color: #e7f8d2; /* verdesillo más claro */
+	/* #E7DBF0; purpureo grisaseo */
+}
+
+
+div#tablita {
+	
+}
+
+
+body {
+	margin-top: 20px;
+	margin-left: 10%;
+	padding: 0px;
+	width: 900px;
+	border: solid 5px #005276;
+}
+
+input {
+ background-color: #666699;
+}
+select {
+ background-color: #666699;
+ color: #ffffff;
+}
+textarea {
+ background-color: #666699;
+ color: #ffffff;
+}

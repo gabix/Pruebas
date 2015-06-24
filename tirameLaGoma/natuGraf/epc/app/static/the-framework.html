@@ -1,0 +1,150 @@
+<?php function getCoreWeight(){
+$file = file_get_contents(LIB_DIR.'/Kihon/Core.php');
+return strlen($file);
+}?>
+<style>
+    html, body{
+        margin:0px;
+        padding:0px;
+        font-family: sans-serif;
+        width:100%;
+        height:100%;
+        font-size:100%;
+    }
+    body{
+        width:100ex;
+        margin:0px auto;
+    }
+    nav{
+        position:fixed;
+        top:3em;
+        left:0px;
+        width:25ex;
+    }
+    h1{
+        font-size:2.5em;
+    }
+    ul, ol{
+        border-top:1px solid #ccc;
+        width:78%;
+        margin:0px auto;
+        padding:0px;
+    }
+    ul li, ol li{
+        padding-left:3em;
+        line-height:2em;
+        border-bottom:1px solid #ccc
+    }
+    span.expl{
+        cursor:pointer
+    }
+    pre{
+        width:80%;
+        margin:0px auto;
+        background:#eee;
+        border:1px solid #eee;
+        padding:1em;
+    }
+    pre ol li{
+        width:80%;
+        padding-left:none;
+    }
+    pre:hover{
+        background:transparent;
+    }
+    li ul{
+        margin:0px;
+        padding:0px;
+        font-size:70%;
+    }
+    li ul li{
+        margin:0px;
+        padding:0px;
+        border:none;
+    }
+</style>
+</head>
+<body onload="prettyPrint()">
+    <nav>
+        <ul>
+            <li>The framework
+                <ul>
+                    <li><a href="#motivation">Motivation</a>
+                    <li><a href="#api">API</a>
+                    <li><a href="#install">Installation</a>
+                    <li><a href="#examples">Examples</a>
+                    <li><a href="#troubleshooting">Troubleshooting</a>
+                </ul>
+            </li>
+            <li><a href="<?php echo Config::value('app.mvc.front_controller')?>">Back home</a>
+            <li><a href="pages/the-authors">The authors</a>
+        </ul>
+    </nav>
+    <article>
+        <h1>Kihon microframework v0.0.1</h1>
+        <h2>The framework</h2>
+        <section>
+            <h3 id="motivation">Motivation</h3>
+            <p>
+                Kihon( <span class="expl" title="The basics">(基本)</span> is 
+                born as the most current attempt to both develop applications
+                faster and having a clean platform for it without spending
+                ages dancing around mind-bogglingly stupid decisions other people
+                took. 
+            </p>
+            <p>
+                It is thus born from the spite and anger of having to rewrite
+                bad code. It is born from the frustration of refactoring 
+                endlessly coupled and tangled code. It is born to simplify your
+                and everybody else's life.
+            </p>
+        </section>
+        <section>
+            <h3 id="api">API</h3>
+            <p>
+                Kihon accomplishes that by getting the fuck out of your way and
+                providing the following primitives and structure (click for details):
+            </p>
+            <ul>
+                <li><a href="#0">Web front controller</a></li>
+                <li><a href="#0">Console front controller</a></li>
+                <li><a href="#0">View/Controller primitives for the front controllers</a></li>
+                <li><a href="#0">Implementations for Singleton and Strategy</a></li>
+                <li><a href="#0">An URL - Controller mapper</a></li>
+                <li><a href="#0">A Configuration manager</a></li>
+                <li><a href="#0">A metric ton of documentation</a></li>
+                <li><a href="#0">A clear file structure</a></li>
+            </ul>
+            </p>
+        </section>
+        <section>
+            <h2 id="examples-brief">Examples</h2>
+            <p>
+                This website itself is a simple example. It's being handled by 
+                this front controller code:
+            <pre class="prettyprint linenums"><?php echo htmlentities(file_get_contents(APP_DIR.'/../index.php'))?></pre>
+            </p>
+            <p>
+                And one for a console based app would look like:
+            <pre class="prettyprint linenums"><?php echo htmlentities(file_get_contents(APP_DIR.'/../console.php'))?></pre>
+
+            </p>
+
+            <p>
+                The controller showing this page in turn looks like this:
+            <pre class="prettyprint linenums"><?php echo htmlentities(file_get_contents(APP_DIR.'/../app/Pages/Controller.php'))?></pre>
+
+            </p>
+
+        </section>
+        <section>
+            <h2 id="metrics">Metrics</h2>
+            <p>The entire core is <strong class="calculated"><?php echo getCoreWeight()?> bytes </strong>
+                fat, and this page took <strong class="calculated">0.00070500373840332 seconds</strong> 
+                to exit the server and get to you.</p>
+            <p>It's also a solid 98% percent funnier to work with than other frameworks</p>
+        </section>
+        <h2 id="the-framework-brief">The authors</h2>
+    </article>
+</body>
+</html>

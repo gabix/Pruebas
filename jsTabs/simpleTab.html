@@ -1,0 +1,96 @@
+<html>
+<head>
+<title>simple tab</title>
+<style type="text/css">
+	ul {
+		text-align: left;
+		margin: 3px 0px 0px 0px;
+		list-style-type: none;
+	}
+	li {
+		display: inline;
+		margin: 0;
+		padding: 3px 3px 3px 0px;
+	}
+	li a{
+		position: relative;
+	 	bottom:1px;
+		text-decoration: none;
+		border: 1px solid black;
+		padding: 3px;
+	}
+	li a.seleccionada{
+		text-decoration: none;
+		border-top: 1px solid white;
+		border-left: 1px solid black;
+		border-right: 1px solid black;
+		border-bottom: 1px solid black;
+		padding: 3px;
+	}
+	div.todo {
+		padding: 20px;
+		border: 1px solid black;
+	}
+	div.contenidos {
+		width:450px;
+		padding: 3px;
+		border: 1px solid black;
+	}
+	div.contClear {
+		display:none;
+	}
+	div.contShow {
+		display:block;
+	}
+
+	@media print {
+		.cont {
+			display:block !important;
+		}
+	}
+</style>
+<script type="text/javascript">
+	<!--
+	function resetTsCs() {
+		document.getElementById("t1").setAttribute("class", "");
+		document.getElementById("c1").setAttribute("class", "contClear");
+		document.getElementById("t2").setAttribute("class", "");
+		document.getElementById("c2").setAttribute("class", "contClear");
+		document.getElementById("t3").setAttribute("class", "");
+		document.getElementById("c3").setAttribute("class", "contClear");
+
+		return;
+	}
+
+	function tab_click(tabId, contId) {
+		resetTsCs();
+
+		var t=document.getElementById(tabId);
+		var c=document.getElementById(contId);
+		t.setAttribute("class", "seleccionada");
+		c.setAttribute("class", "contShow");
+
+		return;
+	}
+	//-->
+</script>
+</head>
+<body>
+
+<h1>Simple tab!</h1>
+
+<div class="todo">
+	<div class="contenidos">
+		<div id="c1" class="contShow">contenido 1</div>
+		<div id="c2" class="contClear">contenido 2</div>
+		<div id="c3" class="contClear">contenido 3</div>
+	</div>
+	<ul>
+		<li><a href="#" id="t1" class="seleccionada" onclick="tab_click('t1', 'c1')">tab1</a></li>
+		<li><a href="#" id="t2" class="" onclick="tab_click('t2', 'c2')">tab2</a></li>
+		<li><a href="#" id="t3" class="" onclick="tab_click('t3', 'c3')">tab3</a></li>
+		<li><a href="#" onclick="resetTsCs()" />caca</li>
+	</ul>
+</div>
+</body>
+</html>

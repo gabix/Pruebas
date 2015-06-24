@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 rel. 2 sp1 (http://www.altova.com) by Leonardo (PT) -->
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="480" textColor="" frameColor="0xffffff" frameWidth="0" stagePadding="40" thumbnailColumns="3" thumbnailRows="2" navPosition="left" title="GRAND PRIX" enableRightClickOpen="true" backgroundImagePath="" imagePath="GaleriaCaballeros/images/" thumbPath="GaleriaCaballeros/thumbs/">
+	<image>
+		<filename>GP008-1.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR 100 Mts.<br>Calendario<br>Dial Blanco - Negro - Gris - Azul]]></descripcion>
+		<modelo>GP008</modelo>
+	</image>
+	<image>
+		<filename>GP008-2.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR 100 Mts.<br>Calendario<br>Dial Blanco - Negro]]></descripcion>
+		<modelo>GP008</modelo>
+	</image>
+	<image>
+		<filename>GP008-3.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR 100 Mts.<br>Calendario<br>Dial Blanco - Negro - Gris]]></descripcion>
+		<modelo>GP008</modelo>
+	</image>
+	<image>
+		<filename>GP009-1.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Caucho<br>WR 50 Mts.<br>Calendario<br>Dial Negro]]></descripcion>
+		<modelo>GP009</modelo>
+	</image>
+	<image>
+		<filename>GP009-2.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Caucho<br>WR 50 Mts.<br>Calendario<br>Dial Negro]]></descripcion>
+		<modelo>GP009</modelo>
+	</image>
+	<image>
+		<filename>GP009-3.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Caucho<br>WR 50 Mts.<br>Calendario<br>Dial Negro]]></descripcion>
+		<modelo>GP009</modelo>
+	</image>
+	<image>
+		<filename>GP015C.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Calendario<br>Dial Negro]]></descripcion>
+		<modelo>GP015C</modelo>
+	</image>
+	<image>
+		<filename>GP019C-1.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR 100 Mts.<br>Doble Calendario<br>Dial Negro - Blanco - Gris]]></descripcion>
+		<modelo>GP019C</modelo>
+	</image>
+	<image>
+		<filename>GP019C-2.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Doble Calendario<br>Dial Negro - Blanco]]></descripcion>
+		<modelo>GP019C</modelo>
+	</image>
+	<image>
+		<filename>GP020C.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR 100 Mts.<br>Calendario<br>Corona a Rosca<br>Dial Negro]]></descripcion>
+		<modelo>GP020C</modelo>
+	</image>
+	<image>
+		<filename>GP025C-1.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR<br>Calendario<br>Dial Blanco - Negro]]></descripcion>
+		<modelo>GP025C</modelo>
+	</image>
+	<image>
+		<filename>GP025C-2.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR<br>Calendario<br>Dial Blanco - Negro]]></descripcion>
+		<modelo>GP025C</modelo>
+	</image>
+	<image>
+		<filename>GP025C-3.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR<br>Calendario<br>Dial Blanco - Negro]]></descripcion>
+		<modelo>GP025C</modelo>
+	</image>
+	<image>
+		<filename>GP025C-4.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR<br>Calendario<br>Dial Blanco - Negro]]></descripcion>
+		<modelo>GP025C</modelo>
+	</image>
+	<image>
+		<filename>GP025C-5.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR<br>Calendario<br>Dial Blanco - Negro]]></descripcion>
+		<modelo>GP025C</modelo>
+	</image>
+	<image>
+		<filename>GP025C-6.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR<br>Calendario<br>Dial Blanco - Negro]]></descripcion>
+		<modelo>GP025C</modelo>
+	</image>
+	<image>
+		<filename>GP026C.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR 100 Mts.<br>Calendario<br>Dial Blanco - Gris]]></descripcion>
+		<modelo>GP026C</modelo>
+	</image>
+	<image>
+		<filename>GP027C.png</filename>
+		<descripcion><![CDATA[Caballero<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Doble Calendario<br>Dial Blanco - Negro - Azul]]></descripcion>
+		<modelo>GP027C</modelo>
+	</image>
+</simpleviewerGallery>

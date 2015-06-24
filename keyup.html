@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <form>
+            <input id="target" type="text" value="Hello there" />
+        </form>
+        <div id="other">
+            Trigger the handler<br />
+            <label id="msg"></label>
+        </div>
+
+        <script type="text/javascript" src="inc/jquery.min.js"></script>
+        <script type="text/javascript">
+            $('#target').keyup(function() {
+                $('#msg').html("Handler for .keyup() called.");
+                console.log("Handler for .keyup() called.");
+                //alert('Handler for .keyup() called.');
+            });
+        </script>
+    </body>
+</html>

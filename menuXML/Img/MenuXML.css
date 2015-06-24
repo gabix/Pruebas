@@ -1,0 +1,40 @@
+/* EduPsi.css */
+body {
+
+}
+
+.p_tituloPri {
+	text-align: center;
+	border: solid 1px #A39E88; /* caca de camello más oscuro */
+	/* #B88ED6; purpureo grisaseo mas oscuro*/
+	font-size : large; 
+	font-style : italic; 
+	font-weight : bold;
+	padding: 1px;
+	margin: 1px;
+}
+
+.p_headLinks {
+	text-align: center;
+	border: solid 1px #A39E88; /* caca de camello más oscuro */	
+	margin-left: 10%;
+	margin-right: 10%;
+	color: #A39E88; /* caca de camello más oscuro */
+	font-weight: bold;
+	font-size: xx-small;
+}
+
+.td_centYcolfondo {
+	background-color:  #F5F3EA; /* caca de camello */
+	/* #E7DBF0; purpureo grisaseo */
+}
+
+/* ids de divs --> */
+div#cabeza {
+	background: #F5F3EA; /* caca de camello */
+	width: 900px;
+	height: 150px;
+	/* background-image: url("jederManchas.png");
+	background-repeat: no-repeat; */
+}
+/* <-- ids de divs */

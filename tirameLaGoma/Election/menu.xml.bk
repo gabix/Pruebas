@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="Election 2009">
+	<data>
+		<main childStyle="level1_style">
+			<item title="EMPRESA" childStyle="level2_style" function="getURL(Empresa.html, _blank)" />
+			<item title="PRODUCTOS" childStyle="level2_style">
+				<item title="Grand Prix Caballeros" function="jump(2)"/>
+				<item title="Grand Prix Damas + Duo" function="jump(3)"/>
+				<item title="Material Punto de Venta" function="jump(4)"/>
+				<item title="Catálogo" function="getURL(Catalogo.pdf, _blank)"/>
+			</item>
+			<item title="SERVICIO TÉCNICO" childStyle="level2_style" function="jump(5)"/>
+			<item title="RED DE DISTRIBUIDORES" childStyle="level2_style"/>
+			<item title="CONTACTO" childStyle="level2_style" function="mail(mailto:info@election.com.ar)"/>
+		</main>
+	</data>
+	<styles>
+		<level1_style>
+			<itemSpacing>16</itemSpacing>
+			<barIconSpacing>0</barIconSpacing>
+			<popIconSpacing>0</popIconSpacing>
+			<fixedSize>false</fixedSize>
+			<folderIconId/>
+			<itemHeight>21</itemHeight>
+			<textFormat>
+				<font>standard 07_63</font>
+				<size>8</size>
+				<bold>false</bold>
+				<color>0xFFFFFF</color>
+				<underline>false</underline>
+				<align>left</align>
+				<rightMargin>0</rightMargin>
+			</textFormat>
+			<parts>
+				<left>DDM_BlueA1_style1_left</left>
+				<right>DDM_BlueA1_style1_right</right>
+				<hseparator>DDM_BlueA1_style1_hseparator</hseparator>
+				<vseparator>DDM_BlueA1_style1_vseparator</vseparator>
+				<top>DDM_BlueA1_style1_top</top>
+				<bottom>DDM_BlueA1_style1_bottom</bottom>
+				<folderIconId>DDM_BlueA1_style1_folderIcon</folderIconId>
+			</parts>
+			<states>
+				<up>
+					<mcLinkageId>DDM_BlueA1_style1_up</mcLinkageId>
+				</up>
+				<over>
+					<textFormat>
+						<color>0x3366ff</color>
+					</textFormat>
+					<mcLinkageId>DDM_BlueA1_style1_over</mcLinkageId>
+				</over>
+				<down>
+					<textFormat>
+						
+					</textFormat>
+					<mcLinkageId>DDM_BlueA1_style1_down</mcLinkageId>
+				</down>
+				<selected>
+					<textFormat>
+						<bold>false</bold>
+						<color>0x3366ff</color>
+					</textFormat>
+					<mcLinkageId>DDM_BlueA1_style1_selected</mcLinkageId>
+				</selected>
+				<disabled>
+					<textFormat>
+						<color>0xffffff</color>
+					</textFormat>
+					<mcLinkageId>DDM_BlueA1_style1_disabled</mcLinkageId>
+				</disabled>
+			</states>
+		</level1_style>
+		<level2_style>
+			<itemSpacing>17</itemSpacing>
+			<barIconSpacing>0</barIconSpacing>
+			<popIconSpacing>0</popIconSpacing>
+			<fixedSize>false</fixedSize>
+			<folderIconId>DDM_BlueA1_style2_folderIcon</folderIconId>
+			<itemHeight>19</itemHeight>
+			<textFormat>
+				<font>standard 07_63</font>
+				<size>8</size>
+				<bold>false</bold>
+				<color>0xffffff</color>
+				<underline>false</underline>
+				<align>left</align>
+				<rightMargin>0</rightMargin>
+			</textFormat>
+			<parts>
+				<left>DDM_BlueA1_style2_left</left>
+				<right>DDM_BlueA1_style2_right</right>
+				<hseparator>DDM_BlueA1_style2_hseparator</hseparator>
+				<vseparator>DDM_BlueA1_style2_vseparator</vseparator>
+				<top>DDM_BlueA1_style2_top</top>
+				<bottom>DDM_BlueA1_style2_bottom</bottom>
+				<folderIconId>DDM_BlueA1_style2_folderIcon</folderIconId>
+			</parts>
+			<states>
+				<up>
+					<mcLinkageId>DDM_BlueA1_style2_up</mcLinkageId>
+				</up>
+				<over>
+					<textFormat>
+						<color>0xff0000</color>
+					</textFormat>
+					<mcLinkageId>DDM_BlueA1_style2_over</mcLinkageId>
+				</over>
+				<down>
+					<textFormat>
+						
+					</textFormat>
+					<mcLinkageId>DDM_BlueA1_style2_down</mcLinkageId>
+				</down>
+				<selected>
+					<textFormat>
+						<bold>false</bold>
+						<color>0xffffff</color>
+					</textFormat>
+					<mcLinkageId>DDM_BlueA1_style2_selected</mcLinkageId>
+				</selected>
+				<disabled>
+					<textFormat>
+						<color>0xffffff</color>
+					</textFormat>
+					<mcLinkageId>DDM_BlueA1_style2_disabled</mcLinkageId>
+				</disabled>
+			</states>
+		</level2_style>
+	</styles>
+</component>

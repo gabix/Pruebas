@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tipos>
+	<tipo>
+		<tipoId>1</tipoId>
+		<tipoNombre>lamaparas de pared</tipoNombre>
+		<tipoModelos>
+			<modelo>
+				<modeloId>1</modeloId>
+				<modeloNombre>cuadrado</modeloNombre>
+				<modeloTamano>546x542</modeloTamano>
+				<modeloOtrosDetalles>non hay</modeloOtrosDetalles>
+				<modeloLink>llamdo a una pag</modeloLink>
+			</modelo>
+			<modelo>
+				<modeloId>2</modeloId>
+				<modeloNombre>redondo</modeloNombre>
+				<modeloTamano>6x8</modeloTamano>
+				<modeloOtrosDetalles>non hay</modeloOtrosDetalles>
+				<modeloLink>llamdo a una pag2</modeloLink>
+			</modelo>
+		</tipoModelos>
+	</tipo>
+	<tipo>
+		<tipoId>2</tipoId>
+		<tipoNombre>lamparas de techo</tipoNombre>
+		<tipoModelos>
+			<modelo>
+				<modeloId>3</modeloId>
+				<modeloNombre>araña loca</modeloNombre>
+				<modeloTamano>56x52</modeloTamano>
+				<modeloOtrosDetalles>non hay</modeloOtrosDetalles>
+				<modeloLink>llamdo a otra pag</modeloLink>
+			</modelo>
+		</tipoModelos>
+	</tipo>
+	<tipo>
+		<tipoId>3</tipoId>
+		<tipoNombre>lamparas de pie</tipoNombre>
+		<tipoModelos>
+			<modelo>
+				<modeloId>4</modeloId>
+				<modeloNombre>miPieloco</modeloNombre>
+				<modeloTamano>6x2</modeloTamano>
+				<modeloOtrosDetalles>non hay</modeloOtrosDetalles>
+				<modeloLink>llamdo a otro modelito</modeloLink>
+			</modelo>
+			<modelo>
+				<modeloId>5</modeloId>
+				<modeloNombre>miPieloco</modeloNombre>
+				<modeloTamano>6x2</modeloTamano>
+				<modeloOtrosDetalles>non hay</modeloOtrosDetalles>
+				<modeloLink>llamdo a otro modelito</modeloLink>
+			</modelo>
+		</tipoModelos>
+	</tipo>
+</tipos>

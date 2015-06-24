@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gallery maxImageWidth="480" maxImageHeight="480" textColor="" frameColor="0xffffff" frameWidth="0" stagePadding="40" thumbnailColumns="3" thumbnailRows="2" navPosition="left" title="GRAND PRIX" enableRightClickOpen="true" backgroundImagePath="" imagePath="GaleriaDamas/images/" thumbPath="GaleriaDamas/thumbs/">
+	<image>
+		<filename>GP030D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP030D</modelo>
+	</image>
+	<image>
+		<filename>GP031D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP031D</modelo>
+	</image>
+	<image>
+		<filename>GP032D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP032D</modelo>
+	</image>
+	<image>
+		<filename>GP033D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP033D</modelo>
+	</image>
+	<image>
+		<filename>GP034D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP034D</modelo>
+	</image>
+	<image>
+		<filename>GP035D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP035D</modelo>
+	</image>
+	<image>
+		<filename>GP036D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP036D</modelo>
+	</image>
+	<image>
+		<filename>GP037D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP037D</modelo>
+	</image>
+	<image>
+		<filename>GP039D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP039D</modelo>
+	</image>
+	<image>
+		<filename>GP040D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP040D</modelo>
+	</image>
+	<image>
+		<filename>GP041D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP041D</modelo>
+	</image>
+	<image>
+		<filename>GP042D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP042D</modelo>
+	</image>
+	<image>
+		<filename>GP043D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP043D</modelo>
+	</image>
+	<image>
+		<filename>GP044D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Calendario<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP044D</modelo>
+	</image>
+	<image>
+		<filename>GP045D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Calendario<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP045D</modelo>
+	</image>
+	<image>
+		<filename>GP046D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Calendario<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP046D</modelo>
+	</image>
+	<image>
+		<filename>GP047D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Doble Calendario<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP047D</modelo>
+	</image>
+	<image>
+		<filename>GP048D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Doble Calendario<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP048D</modelo>
+	</image>
+	<image>
+		<filename>GP049D.png</filename>
+		<descripcion><![CDATA[Dama<br>Caja Acero<br>Malla Acero<br>WR 50 Mts.<br>Doble Calendario<br>Dial Blanco - Negro - Celeste - Rosa - Azul - Gris]]></descripcion>
+		<modelo>GP049D</modelo>
+	</image>
+	<image>
+		<filename>GP015CC.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP015CC</modelo>
+	</image>
+	<image>
+		<filename>GP017DC.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP017DC</modelo>
+	</image>
+	<image>
+		<filename>GP015DC.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP015DC</modelo>
+	</image>
+	<image>
+		<filename>GP017CC.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP017CC</modelo>
+	</image>
+	<image>
+		<filename>GP017D.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP017D</modelo>
+	</image>
+	<image>
+		<filename>GP017C.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP017C</modelo>
+	</image>
+	<image>
+		<filename>GP045DC.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP045DC</modelo>
+	</image>
+	<image>
+		<filename>GP045CC.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP045CC</modelo>
+	</image>
+	<image>
+		<filename>GP047DD.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP047DD</modelo>
+	</image>
+	<image>
+		<filename>GP047CD.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP047CD</modelo>
+	</image>
+	<image>
+		<filename>GP048CD.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP048CD</modelo>
+	</image>
+	<image>
+		<filename>GP048DD.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP048DD</modelo>
+	</image>
+	<image>
+		<filename>GP066C.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP066C</modelo>
+	</image>
+	<image>
+		<filename>GP067C.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP067C</modelo>
+	</image>
+	<image>
+		<filename>GP068C.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP068C</modelo>
+	</image>
+	<image>
+		<filename>GPO68CC.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GPO68CC</modelo>
+	</image>
+	<image>
+		<filename>GP068DC.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP068DC</modelo>
+	</image>
+	<image>
+		<filename>GP068D.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP068D</modelo>
+	</image>
+	<image>
+		<filename>GP069C.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP069C</modelo>
+	</image>
+	<image>
+		<filename>GP073DC.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP073DC</modelo>
+	</image>
+	<image>
+		<filename>GP073CC.png</filename>
+		<descripcion><![CDATA[Duo]]></descripcion>
+		<modelo>GP073CC</modelo>
+	</image>
+</Gallery>
