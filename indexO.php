@@ -1,8 +1,8 @@
 <html>
 
 <head>
-	<link rel="StyleSheet" type="text/css" href="Img/mio.css" />
-	<link rel="StyleSheet" type="text/css" href="Img/bordes.css" />
+	<link rel="StyleSheet" type="text/css" href="img/mio.css" />
+	<link rel="StyleSheet" type="text/css" href="img/bordes.css" />
 	<meta name="description" content="repaso" />
 	<meta name="keywords" content="repaso, php" />
 	<title>Repaso de PHP</title>
@@ -25,9 +25,9 @@
 				
 					<!-- Bordes sombreados de arriba -->
 				<tr>
-					<td><img src="Img/Bordes/BordeSom_ArrIzq_paRep.png" /></td>
+					<td><img src="img/Bordes/BordeSom_ArrIzq_paRep.png" /></td>
 					<td class="td_bordeArribaCentro"></td>
-					<td><img src="Img/Bordes/BordeSom_ArrDer_paRep.png" /></td>
+					<td><img src="img/Bordes/BordeSom_ArrDer_paRep.png" /></td>
 				</tr>
 				
 					<!-- Bordes sombreados del medio -->
@@ -64,9 +64,9 @@
 			
 				<!-- Bordes sombreados de abajo -->
 				<tr>
-					<td><img src="Img/Bordes/BordeSom_AbaIzq_paRep.png" /></td>
+					<td><img src="img/Bordes/BordeSom_AbaIzq_paRep.png" /></td>
 					<td class="td_bordeAbajoCentro" valign="top"></td>
-					<td><img src="Img/Bordes/BordeSom_AbaDer_paRep.png" /></td>
+					<td><img src="img/Bordes/BordeSom_AbaDer_paRep.png" /></td>
 				</tr>
 			</table>
 			

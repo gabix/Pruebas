@@ -1,5 +1,5 @@
 <?php
-$p = "rotaImgs.php";
+$p = "rotaImagenes.php";
 $title = "rota imágenes";
 ?>
 <!DOCTYPE html>
@@ -14,7 +14,37 @@ $title = "rota imágenes";
 
     <link href="css/bootstrap.min.css" rel="stylesheet" />
     <link href="css/nuevajome.css" rel="stylesheet" />
+    <style type="text/css">
+        .site-wrapper {
+            display: table;
+            position: relative;
+            width: 100%;
+            height: 100%; /* For at least Firefox */
+            min-height: 100%;
+            -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+            box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+        }
 
+        #bg {
+            position: fixed;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+        }
+        #bg img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            margin: auto;
+            min-width: 50%;
+            min-height: 50%;
+        }
+
+
+    </style>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -23,6 +53,10 @@ $title = "rota imágenes";
 </head>
 
 <body>
+
+<div id="bg">
+    <img id="im_bg" src="img/fondos/alFiruleteo.jpg" />
+</div>
 
 <div class="site-wrapper">
     <div class="site-wrapper-inner">
@@ -110,10 +144,14 @@ $title = "rota imágenes";
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 <script type="text/javascript">
     $(function(){
+        //para las tabs
         $(document).on('click.bs.tab.data-api', '[data-toggle="tab"], [data-toggle="tab"]', function (e) {
             e.preventDefault()
             $('ul.nav li a[href="' + $(this).attr('href') + '"]').tab('show');
         })
+
+        //el rota imgs
+
     });
 </script>
 </body>
