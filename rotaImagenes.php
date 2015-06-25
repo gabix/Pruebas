@@ -195,7 +195,6 @@ $title = "rota imágenes";
         function CambiaCSSbackground(nuevoSrc){
             $('body').css('background', 'url("'+nuevoSrc+'") no-repeat');
             $('body').css('background-size', 'cover');
-            $('body').fadeIn();
         }
     });
 </script>
