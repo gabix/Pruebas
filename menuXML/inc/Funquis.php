@@ -10,9 +10,9 @@ class Funquis {
 
 						<!-- Bordes sombreados de arriba -->
 					<tr>
-						<td><img src="img/Bordes/BordeSom_ArrIzq_paRep.png" /></td>
+						<td><img src="Img/Bordes/BordeSom_ArrIzq_paRep.png" /></td>
 						<td class="td_bordeArribaCentro"></td>
-						<td><img src="img/Bordes/BordeSom_ArrDer_paRep.png" /></td>
+						<td><img src="Img/Bordes/BordeSom_ArrDer_paRep.png" /></td>
 					</tr>
 
 						<!-- Bordes sombreados del medio -->
@@ -48,9 +48,9 @@ class Funquis {
 
 					<!-- Bordes sombreados de abajo -->
 					<tr>
-						<td><img src="img/Bordes/BordeSom_AbaIzq_paRep.png" /></td>
+						<td><img src="Img/Bordes/BordeSom_AbaIzq_paRep.png" /></td>
 						<td class="td_bordeAbajoCentro" valign="top"></td>
-						<td><img src="img/Bordes/BordeSom_AbaDer_paRep.png" /></td>
+						<td><img src="Img/Bordes/BordeSom_AbaDer_paRep.png" /></td>
 					</tr>
 				</table>
 			');
