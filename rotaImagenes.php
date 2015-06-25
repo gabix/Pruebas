@@ -55,7 +55,7 @@ $title = "rota imágenes";
 <body>
 
 <div id="bg">
-    <img id="im_bg" src="img/fondos/alFiruleteo.jpg" />
+    <img id="im_fondo" src="img/fondos/alFiruleteo.jpg" />
 </div>
 
 <div class="site-wrapper">
@@ -151,7 +151,52 @@ $title = "rota imágenes";
         })
 
         //el rota imgs
+        var fondos = [
+            'img/fondos/alFiruleteo.jpg',
+            'img/fondos/avatar.jpg',
+            'img/fondos/boc.filtro.jpg',
+            'img/fondos/buHubuHu.v1.jpg',
+            'img/fondos/carAzulia.jpg',
+            'img/fondos/eGato.jpg',
+            'img/fondos/tortugo.jpg',
+            'img/fondos/unaRaveRural.jpg',
+            'img/fondos/buHubuHu.v1.jpg'
+        ];
 
+        var img = $('#im_fondo');
+        var cadaSegs = 3 * 1000;
+        var fadeSpeed = "slow";
+        var i = 0;
+
+        setInterval( function() {
+            CambiaFondo();
+        }, cadaSegs);
+
+        function CambiaFondo() {
+            i = nextI(i, fondos.length);
+            var nuevoSrc = fondos[i];
+            console.log(nuevoSrc);
+
+            // Fade the image out, then when done...
+            img.fadeOut(fadeSpeed, function () {
+                // Replace the src, then fade back in
+                img.attr('src', nuevoSrc);
+                img.fadeIn(fadeSpeed);
+            });
+        }
+
+        function nextI(actI, arrLength) {
+            if (actI === (arrLength - 1)) {
+                actI = -1;
+            }
+            return (actI + 1)
+        }
+
+        function CambiaCSSbackground(nuevoSrc){
+            $('body').css('background', 'url("'+nuevoSrc+'") no-repeat');
+            $('body').css('background-size', 'cover');
+            $('body').fadeIn();
+        }
     });
 </script>
 </body>
